@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I am a Software Engineer and Backend Developer at [Ace Data Systems](https://acedatasystems.com/). I am passionate about software development, particularly in the realm of Digital Banking.
+I am a Software Engineer and Backend Developer at [Ace Data Systems](https://acedatasystems.com/). I am passionate about software development,
 
 - 🔭 I’m currently working on Digital Banking projects.
 - 🌱 I’m currently learning Python.
