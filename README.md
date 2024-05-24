@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Ko Ko Naing! 👋
 
-<!--
-**kokonaing-dev/kokonaing-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Software Engineer and Backend Developer at [Ace Data Systems](https://acedatasystems.com/). I am passionate about software development, particularly in the realm of Digital Banking.
+
+- 🔭 I’m currently working on Digital Banking projects.
+- 🌱 I’m currently learning Python.
+- 💬 Ask me about Data Structure and Algorithms.
+- 📫 How to reach me: [Email](mailto:kokonai1827@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I tend to get sleepy under pressure.
+
+## GitHub Stats
+
+![Ko Ko Naing's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokonaing-dev&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kokonaing-dev&layout=compact&theme=radical)
+
+## Projects
+
+Here are a few of my notable projects:
+
+- [LDAP Authentication ASP.NET MVC](https://github.com/kokonaing-dev/LDAP-Authentication-ASP.NET-MVC.git): Brief description of project 1.
+- [Student Registration JSP Servlet](https://github.com/kokonaing-dev/student-registration-jsp-servlet.git): Brief description of project 2.
+
+## Acknowledgements
+
+Thanks for visiting my profile. Feel free to reach out to me for any queries or collaboration ideas!
+
+---
+
+*Last Updated on [date]*
