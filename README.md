@@ -28,8 +28,7 @@ A bug magnet programmer
 ![snake gif](https://github.com/kokonaing-dev/kokonaing-dev/blob/output/github-contribution-grid-snake.gif)
 -->
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peter_pan_274) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afdf)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
@@ -38,11 +37,13 @@ A bug magnet programmer
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 #  GitHub Stats:
 
 <div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kokonaing-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 100%; margin-right: 2%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kokonaing-dev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 100%; margin-right: 2%;">
 </div>
 
 ---
