@@ -20,7 +20,7 @@ I'm from Yangon - Myanmar
 
 I studied Java |C# |Python 
 
-A programmer who makes some kludges.
+A bug magnet programmer
 
 
 
