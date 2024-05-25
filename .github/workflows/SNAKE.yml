@@ -50,7 +50,7 @@ jobs:
           git commit -m "Generate snake contribution graph"
           git push origin output --force
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
@@ -60,7 +60,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
 
       # Optional: Add a step to check the directory content for debugging
       - name: List Output Directory
