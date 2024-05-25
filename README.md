@@ -10,9 +10,9 @@ I am a Software Engineer and Backend Developer at Ace Data Systems. I am passion
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kokonaing-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 48%; margin-right: 2%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kokonaing-dev&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 48%;">
+<div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kokonaing-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 100%; margin-right: 2%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kokonaing-dev&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="height: 100%;">
 </div>
 
 
