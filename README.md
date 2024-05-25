@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 I am a Software Engineer and Backend Developer at Ace Data Systems. I am passionate about software development.<br><br>🔭 I’m currently working on Digital Banking projects.<br>🌱 I’m currently learning Python, Data Structure and Algorithms<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I tend to get sleepy under pressure
 
 
