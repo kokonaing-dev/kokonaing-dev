@@ -1,8 +1,8 @@
-# 💫 About Me:
+#💫 About Me:
 I am a Software Engineer and Backend Developer at Ace Data Systems. I am passionate about software development.<br><br>🔭 I’m currently working on Digital Banking projects.<br>🌱 I’m currently learning Python, Data Structure and Algorithms<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I tend to get sleepy under pressure
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peter_pan_274) 
 
 # 💻 Tech Stack:
@@ -22,10 +22,10 @@ I am a Software Engineer and Backend Developer at Ace Data Systems. I am passion
 </div>
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kokonaing-dev&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
