@@ -44,13 +44,14 @@ jobs:
 
       # Commit and push the changes to the output branch
       - name: Commit and Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
           git checkout -b output
           git add dist/*
           git commit -m "Generate snake contribution graph"
+          git remote set-url origin https://kokonaing-dev:${{ secrets.PAT }}@github.com/kokonaing-dev/kokonaing-dev.git
           git push origin output --force
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
