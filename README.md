@@ -1,9 +1,9 @@
 # 💫 About Me:
 I am a Software Engineer and Backend Developer at Ace Data Systems. I am passionate about software development.<br><br>🔭 I’m currently working on Digital Banking projects.<br>🌱 I’m currently learning Python, Data Structure and Algorithms<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I tend to get sleepy under pressure
 
-
+<!--
 ![snake gif](https://github.com/kokonaing-dev/kokonaing-dev/blob/output/github-contribution-grid-snake.gif)
-
+-->
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peter_pan_274) 
