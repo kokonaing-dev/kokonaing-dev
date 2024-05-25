@@ -7,8 +7,7 @@ Welcome to my GitHub profile!
 I am a Software Engineer and Backend Developer at [Ace Data Systems](https://acedatasystems.com/). I am passionate about software development,
 
 - 🔭 I’m currently working on Digital Banking projects.
-- 🌱 I’m currently learning Python.
-- 💬 Ask me about Data Structure and Algorithms.
+- 🌱 I’m currently learning Python, Data Structure and Algorithms
 - 📫 How to reach me: [Email](mailto:kokonai1827@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I tend to get sleepy under pressure.
