@@ -14,7 +14,7 @@ Backend Developer | Software Engineer
     <img  src="https://github.com/kokonaing-dev/kokonaing-dev/assets/130716574/2c563279-707f-42b7-9432-ca9d96e76bc2" alt="Programming GIF" width="200" align="left">
 </p>
 
-Programing ❤️| Poem 💚
+Programing ❤️|
 
 I'm from Yangon - Myanmar  
 
